@@ -5,7 +5,6 @@ Created on Sun Sep 23 00:14:15 2018
 @author: Suvhradip Ghosh
 """
 
-import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
